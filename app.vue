@@ -92,15 +92,7 @@ export default {
             vm.camera.position.z = 3000;
             vm.scene = new THREE.Scene();
             vm.setTable();
-            // vm.setSphere();
-            // vm.setHelix();
-            // vm.setGrid();
-            // vm.initRender();
-            // vm.$nextTick(() => {
-            //     vm.transform(vm.targets.table, 2000);
-            //     //
-            //     window.addEventListener('resize', vm.onWindowResize(), false);
-            // })
+
 
         },
 
@@ -238,5 +230,9 @@ export default {
 
 
 };
-
 </script>
+<style lang="scss">
+@import './style/main.scss';
+@import './style/style.scss';
+
+</style>
