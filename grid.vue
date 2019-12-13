@@ -26,7 +26,7 @@
                                         <a href="http://cakecounter.com" class="hex-content">
                                             <span class="hex-content-inner">
                                                 <span class="icon">
-                                                    <i class="fa fa-universal-access"></i>
+                                                    <i class="n-icon-yuque"></i>
                                                 </span>
                                                 <span class="title">Welcome</span>
                                             </span>
@@ -44,6 +44,7 @@
 </template>
 
 <script>
+
 export default {
 
 }
