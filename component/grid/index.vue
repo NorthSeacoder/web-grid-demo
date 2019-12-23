@@ -51,5 +51,5 @@ export default {
 </script>
 
 <style lang="scss" >
-@import './style/grid.scss';
+@import '../../style/grid.scss';
 </style>
