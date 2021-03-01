@@ -23,7 +23,7 @@
     "gh-pages": "^2.1.1",
     "node-sass": "^4.13.0",
     "sass-loader": "^8.0.0",
-    "three": "^0.111.0"
+    "three": "^0.125.0"
   },
   "license": "ISC",
   "bugs": {
